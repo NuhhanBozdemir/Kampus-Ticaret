@@ -1,0 +1,130 @@
+[
+  {
+    "category": "içecek",
+    "description": "Özel seçilmiş çekirdeklerden üretilen bu kahve, her yudumda yoğun aroması ve eşsiz lezzetiyle fark yaratıyor. Günün her saati taze ve canlı bir deneyim sunarak, kahve tutkunlarına unutulmaz bir içim keyfi sağlıyor. Kahve severler için mükemmel bir seçenek!",
+    "id": "1",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1050&q=80",
+    "price": 65,
+    "title": "Kahve"
+  },
+  {
+    "category": "Günlük",
+    "description": "Şık tasarımı ve dayanıklı yapısıyla bu su matarası, her an yanınızda taşıyabileceğiniz mükemmel bir seçenektir. Hem spor salonunda hem de günlük yaşamda suyunuzu taze ve güvenle taşımanızı sağlar. Fonksiyonellik ve şıklığı bir arada sunar.",
+    "id": "2",
+    "image": "https://images.unsplash.com/photo-1616740540792-3daec604777d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+    "price": 120,
+    "title": "Su Matarası"
+  },
+  {
+    "category": "Giyim",
+    "description": "Bu ayakkabı, şıklığı ve rahatlığı bir arada sunarak her adımda konforu hissetmenizi sağlar. Modern tasarımı ve yüksek kaliteli malzemeleriyle, hem spor yaparken hem de günlük kullanımda mükemmel bir performans sunar. Her adımda özgürlüğü ve güveni yaşatır.",
+    "id": "3",
+    "image": "https://images.unsplash.com/photo-1618329340733-ab4554d28b15?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=903&q=80",
+    "price": 2400,
+    "title": "Ayakkabı"
+  },
+  {
+    "category": "Ulaşım",
+    "description": "Bu bisiklet, hız ve konforu bir arada sunan mükemmel bir tercihtir. Dayanıklı yapısı ve ergonomik tasarımı sayesinde hem şehir içi hem de dağ yolunda rahatlıkla kullanılabilir. Bisiklet tutkunları için özgürlük ve heyecan dolu bir sürüş deneyimi sunar.",
+    "id": "4",
+    "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHByb2R1Y3R8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 2400,
+    "title": "Bisiklet"
+  },
+  {
+    "category": "Bakım",
+    "description": "Bu şampuan, saçınızı nazikçe temizlerken nemlendirir ve besler. Doğal içerikleriyle saçın canlılığını geri kazandırarak, sağlıklı ve parlak bir görünüm sağlar. Her saç tipine uygun formülü ile günlük kullanıma ideal bir üründür.",
+    "id": "5",
+    "image": "https://images.unsplash.com/photo-1620915789336-129994d5efc8?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "price": 150,
+    "title": "Şampuan"
+  },
+  {
+    "category": "Kırtasiye",
+    "description": "Bu uçlu kalem, keskin ucu ve pürüzsüz yazma deneyimi ile mükemmel bir yazı aracıdır. Hem okul hem de ofis kullanımına uygun, pratik ve şık tasarımıyla uzun süreli kullanım sağlar. Her türlü yazma ihtiyacınızda güvenle tercih edebilirsiniz.",
+    "id": "6",
+    "image": "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=623&q=80",
+    "price": 115,
+    "title": "Uçlu Kalem"
+  },
+  {
+    "category": "Elektronik",
+    "description": "Bu kulaklık, yüksek kaliteli ses deneyimi ve ergonomik tasarımıyla müzik ve telefon görüşmelerinizi daha keyifli hale getirir. Gürültü engelleme özelliği sayesinde dış etkenlerden uzaklaşarak, kesintisiz bir dinleme deneyimi sunar. Şık ve rahat yapısıyla uzun süre kullanım sağlar.",
+    "id": "7",
+    "image": "https://images.unsplash.com/photo-1505751104546-4b63c93054b1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTcyfHxwcm9kdWN0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 1550,
+    "title": "Kulaklık"
+  },
+  {
+    "category": "Elektronik",
+    "description": "Bu akıllı saat, şıklığı ve fonksiyonelliği bir arada sunar. Sağlık takibi, bildirim yönetimi ve fitness özellikleri ile günlük yaşamınızı daha verimli hale getirirken, zarif tasarımıyla stilinizi tamamlar. Her anınızı takip eder ve size en iyi deneyimi sunar.",
+    "id": "8",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+    "price": 5679,
+    "title": "Akıllı Saat"
+  },
+  {
+    "category": "Günlük",
+    "description": "Bu mousepad, pürüzsüz yüzeyi ve ergonomik tasarımıyla bilgisayar kullanımınızı daha rahat ve verimli hale getirir. Kaymaz alt yüzeyi sayesinde güvenli bir kullanım sağlar, bilgisayarınızla uyumlu her tür fareyi rahatlıkla kullanabilirsiniz.",
+    "id": "9",
+    "image": "https://resource.logitech.com/content/dam/logitech/en/products/mice/mouse-pad-studio-series/gallery/logitech-mouse-pad-studio-series-corner-view-graphite.png",
+    "price": 150,
+    "title": "Mousepad"
+  },
+  {
+    "category": "Aksesuar",
+    "description": "Bu cüzdan, şıklığı ve fonksiyonelliği bir araya getirir. Yüksek kaliteli malzemelerden üretilmiş olup, kartlarınızı, nakit paranızı ve kimliklerinizi düzenli bir şekilde taşımanızı sağlar. Kompakt yapısı sayesinde her çantaya kolayca sığar, her gün kullanıma uygun mükemmel bir aksesuar.",
+    "id": "10",
+    "image": "https://img.matras.com/resim/urun/cuzdan-modelleri/matras-17-477-5440-0PP-10030003000100-1678267215-5.jpg",
+    "price": 75,
+    "title": "Cüzdan"
+  },
+  {
+    "category": "Kırtasiye",
+    "description": "Bu A4 kağıt seti, 500 sayfa yüksek kaliteli kağıttan oluşur ve yazıcılarınızda kusursuz baskılar almanızı sağlar. Ofis, okul ve evde her türlü yazışma ve baskı işlemi için ideal bir seçimdir. Dayanıklı ve pürüzsüz yüzeyiyle profesyonel sonuçlar elde etmenize yardımcı olur.",
+    "id": "11",
+    "image": "https://m.media-amazon.com/images/I/61N+Fi-Zj3L._AC_UF894,1000_QL80_.jpg",
+    "price": 225,
+    "title": "A4 Kağıdı"
+  },
+  {
+    "category": "Elektronik",
+    "description": "Bu bilimsel hesap makinesi, karmaşık matematiksel hesaplamalar ve fonksiyonlar için mükemmel bir araçtır. Kullanıcı dostu tasarımı ve gelişmiş özellikleriyle, hem öğrencilere hem de profesyonellere doğru ve hızlı sonuçlar sunar. Matematiksel problemlerinizi kolayca çözmenize yardımcı olur.",
+    "id": "12",
+    "image": "https://m.media-amazon.com/images/I/71AUWXhSsSL._AC_UF1000,1000_QL80_.jpg",
+    "price": 93,
+    "title": "Hesap Makinesi"
+  },
+  {
+    "category": "Kırtasiye",
+    "description": "Bu ajanda, günlük planlamalarınızı düzenli ve verimli bir şekilde yapmanızı sağlar. Şık tasarımı ve kaliteli kağıtlarıyla hem profesyonel hem de kişisel kullanım için idealdir. Her notunuzu güvenle yazabilir ve önemli tarihleri kolayca takip edebilirsiniz.",
+    "id": "13",
+    "image": "https://www.baskiyap.com/image/catalog/product/2025-ajanda/2025-siyah-ajanda.jpg",
+    "price": 78,
+    "title": "Ajanda"
+  },
+  {
+    "category": "Günlük",
+    "description": "Bu kupa bardak, şıklığı ve fonksiyonelliği bir araya getirir. Sabah kahvenizi veya çayın keyfini çıkarırken, zarif tasarımıyla göz alıcı bir görünüm sunar. Hem evde hem ofiste kullanabileceğiniz mükemmel bir seçenek.",
+    "id": "14",
+    "image": "https://productimages.hepsiburada.net/s/274/375/110000260058858.jpg/format:webp",
+    "price": 44,
+    "title": "Kupa Bardak"
+  },
+  {
+    "category": "Aksesuar",
+    "description": "Bu anahtarlık, 'Malatya' yazılı özel tasarımıyla şehre olan bağlılığınızı yansıtır. Şık ve dayanıklı yapısıyla hem anahtarlarınızı düzenler hem de hatıra olarak taşıyabileceğiniz anlamlı bir aksesuar olur. Malatya'nın simgesel ruhunu her zaman yanınızda taşır.",
+    "id": "15",
+    "image": "https://s3.cloud.ngn.com.tr/kitantik/images/2021-07-28/1br9qfwkrkn37551tjo.jpg",
+    "price": 50,
+    "title": "Anahtarlık"
+  },
+  {
+    "category": "Aksesuar",
+    "description": "Bu siyah güneş gözlüğü, hem şıklığı hem de fonksiyonelliği bir arada sunar. UV koruma özelliği ile gözlerinizi zararlı ışınlardan korurken, modern tasarımıyla tarzınıza şıklık katacaktır. Hem günlük kullanımda hem de tatillerde ideal bir aksesuar.",
+    "id": "16",
+    "image": "https://ideacdn.net/idea/gb/16/myassets/products/738/photoroom-20230403-105314.JPG?revision=1697143329",
+    "price": 272,
+    "title": "Güneş Gözlüğü"
+  }
+]
